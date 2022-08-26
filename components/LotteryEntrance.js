@@ -115,6 +115,9 @@ export default function LotteryEntrance() {
                     <div>
                         <h3>Recent Winner: {recentWinner}</h3>
                     </div>
+                    <div>
+                        <h3>WHAT's up!</h3>
+                    </div>
                 </div>
             ) : (
                 <div>Please connect to a supported chain! NOW!!!</div>
